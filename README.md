@@ -28,3 +28,5 @@ elsif rising_edge(clk) then
 end process;
 end Behavioral;
 ~~~
+### Output:
+![Screenshot 2024-05-19 175533](https://github.com/Shaiksushma123/SISO_SR/assets/159005642/01f2fd12-52e6-4f26-86a6-3631264e6fed)
